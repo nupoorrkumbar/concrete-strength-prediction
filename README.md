@@ -5,6 +5,7 @@ This project analyzes and predicts concrete compressive strength using multiple 
 The dataset, sourced from the UCI Machine Learning Repository, contains 1,030 records with 8 input features including cement, water, blast furnace slag, fly ash, aggregates, superplasticizer, and age of concrete.  
 
 The goal is to identify the most influential factors in concrete strength and build predictive models for high-performance construction management and structural engineering applications.  
+Demo Link - https://youtu.be/rsUhb0-qK3E?si=6Zeu_49P4INkW98I 
 
 ---
 
